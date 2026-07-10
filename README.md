@@ -1,6 +1,6 @@
 # SMB Relay – Initial Attack Vector (Active Directory Home Lab)
 
-> **Project:** Active Directory Home Lab
+> **Project:** Active Directory Home Lab   
 > **Chapter:** Attacking Active Directory → Initial Attack Vectors → SMB Relay
 
 ## Executive Summary
